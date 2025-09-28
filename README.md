@@ -1,5 +1,5 @@
 Pre-requisites to test this project:
-
+The following should be downloaded and set up.
 1) Git
 2) Docker(set up and open in the background)
 
