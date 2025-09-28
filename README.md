@@ -6,6 +6,7 @@ Pre-requisites to test this project:
 Steps to test the project:
 
 1) Open CMD/terminal and type the following:
+
    i) cd desktop
 
    ii) git clone https://github.com/sriram01b/kaiburr_task1.git
